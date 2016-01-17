@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Pay on Pickup\n"
+"POT-Creation-Date: 2016-01-17 02:49+0100\n"
+"PO-Revision-Date: 2016-01-17 02:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-pay-on-pickup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: woocommerce-pay-on-pickup.php:31 woocommerce-pay-on-pickup.php:78
+msgid "Pay on Pickup"
+msgstr "Zahlung bei Abholung"
+
+#: woocommerce-pay-on-pickup.php:32
+msgid ""
+"Give your customers the option to pay in cash (or by other means) upon "
+"pickup in your store."
+msgstr ""
+"Gib deinen Kunden die Möglichkeit, bar (oder auf andere Weise) zu bezahlen, "
+"wenn sie ihre Bestellung abholen."
+
+#: woocommerce-pay-on-pickup.php:68
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:69
+msgid "Enable Pay on Pickup"
+msgstr "Zahlung bei Abholung aktivieren"
+
+#: woocommerce-pay-on-pickup.php:75
+msgid "Title"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:77
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:82
+msgid "Description"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:84
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:85 woocommerce-pay-on-pickup.php:92
+msgid "Pay when you pick up your order."
+msgstr "Bezahle, wenn du deine Bestellung abholst."
+
+#: woocommerce-pay-on-pickup.php:89
+msgid "Instructions"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:91
+msgid "Instructions that will be added to the thank you page."
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:96
+msgid "Enable for shipping methods"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:100
+msgid ""
+"If you want Pay on Pickup to only be available for certain shipping methods, "
+"set it up here. Leave blank to enable for all methods."
+msgstr ""
+"Wenn du willst, dass „Zahlung bei Abholung“ nur für manche Versandmethoden "
+"verfügbar ist, kannst du dies hier festlegen. Für die Benutzung mit allen "
+"Methoden lasse das Feld einfach frei."
+
+#: woocommerce-pay-on-pickup.php:104
+msgid "Select shipping methods"
+msgstr ""
+
+#: woocommerce-pay-on-pickup.php:194
+msgid "Payment to be made upon pick up from store."
+msgstr "Zahlung erfolgt bei Abholung der Bestellung."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Pay on Pickup"
+msgstr "WooCommerce Zahlung bei Abholung"
+
+#. Description of the plugin/theme
+msgid "Provides a “Pay on Pickup” option for WooCommerce."
+msgstr "Bietet die Möglichkeit der „Zahlung bei Abholung“ in WooCommerce."
+
+#. Author of the plugin/theme
+msgid "Markus Reiter"
+msgstr "Markus Reiter"
+
+#. Author URI of the plugin/theme
+msgid "http://reitermark.us"
+msgstr "http://reitermark.us"
